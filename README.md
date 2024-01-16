@@ -1,9 +1,9 @@
-# Junior School and College
-A full school management website using flask. Full CRUD( create, read, update, delete ) facility
+# Institution System
+A full Institution management System website using flask. Full CRUD( create, read, update, delete ) facility
 
 ## How to work in this project
 ``` 
-$ git clone https://github.com/mr-teslaa/Junior_School_and_College
+$ git clone https://github.com/arinetf3321/school_app
 ```
 
 
