@@ -2,7 +2,7 @@
 #                           Institution System
 #                     Institution Management System with Python FLASK
 #
-#       Create by some developer
+#       Create by fred developer
 #       Full CRUD facility
 #
 #       Github: https://github.com/arinetf3321/school_app
