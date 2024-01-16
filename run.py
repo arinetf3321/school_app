@@ -1,11 +1,11 @@
 # ========================================================================== #
-#                           Junior School and College
-#                    A School Management System with FLASK
+#                           Institution System
+#                     Institution Management System with Python FLASK
 #
-#       Create by some intelligent programmer
+#       Create by some developer
 #       Full CRUD facility
 #
-#       Github: https://github.com/mr-teslaa/Junior_School_and_College
+#       Github: https://github.com/arinetf3321/school_app
 # ========================================================================== #
 
 from main_app import create_app
